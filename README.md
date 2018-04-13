@@ -11,4 +11,4 @@ tool to package uvm bytecode and contract metadata to one file
 
 # Usage
 
-* package_gpc <path-to-uvm-bytecode-file> <path-to-contract-metadata-file>
+* package_gpc path-to-uvm-bytecode-file path-to-contract-metadata-file
