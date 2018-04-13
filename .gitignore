@@ -1,0 +1,9 @@
+/.idea
+/*.iml
+/logs
+*~
+/out
+/dist
+/build
+/*.log
+
