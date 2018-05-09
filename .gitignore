@@ -6,4 +6,14 @@
 /dist
 /build
 /*.log
-
+/.vs
+/.vscode
+/x64
+/Release
+/Debug
+/*.sdf
+/*.opensdf
+/*.sln
+/*.suo
+/*.vcxproj
+/*.vcxproj.*
